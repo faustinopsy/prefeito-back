@@ -1,6 +1,9 @@
 # Sistema de Estatísticas de Intenção de Votos - Back-end
 
 Este é o back-end do sistema autônomo para levantamento de estatísticas de intenção de votos para a prefeitura de São Paulo. Ele é responsável por armazenar os votos dos usuários e fornecer as informações necessárias para a geração de gráficos no front-end.
+(Nessa versão não colocado conexão com mongo devido a limitação da versão do php utilizada, mas existe aqui a versão em node com o mongo db)
+o link do front funcionando:
+https://prefeitosp.faustinopsy.com
 
 ## Funcionalidades
 
